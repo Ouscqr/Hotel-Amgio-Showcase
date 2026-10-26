@@ -1,0 +1,393 @@
+export const en = {
+  nav: {
+    home: "Home",
+    apartments: "Apartments",
+    amenities: "Amenities",
+    gallery: "Gallery",
+    contact: "Contact",
+    bookNow: "Book Now"
+  },
+  hero: {
+    subtitle: "City Centre Stays",
+    title: "Your Amsterdam Adventure Awaits",
+    description: "Your comfortable Amsterdam getaway! Welcoming rooms with lovely city views and easy access to all the charm this wonderful city offers.",
+    bookStay: "Book Your Stay",
+    exploreApartments: "Explore Apartments",
+    scrollDown: "Scroll Down"
+  },
+  footer: {
+    description: "Comfortable accommodations nestled in Amsterdam's vibrant streets, providing the perfect cozy base for exploring the city's rich culture and charm.",
+    quickLinks: "Quick Links",
+    contact: "Contact",
+    newsletter: "Newsletter",
+    newsletterDesc: "Subscribe to our newsletter for special deals and updates.",
+    yourEmail: "Your email address",
+    subscribe: "Subscribe",
+    allRights: "All rights reserved."
+  },
+  bookingForm: {
+    title: "Book Your Stay",
+    checkIn: "Check-in Date",
+    checkOut: "Check-out Date",
+    adults: "Adults",
+    children: "Children",
+    adult: "Adult",
+    child: "Child",
+    selectDate: "Select date",
+    checkAvailability: "Check Availability",
+    bookingConfirmed: "Booking Confirmed!",
+    redirectNotice: "You will be redirected to our secure booking system to see availability and prices.",
+    notConfigured: "The booking engine is not configured in this demo build."
+  },
+  testimonials: {
+    title: "What Our Guests Say",
+    description: "Discover why our guests keep coming back to us for their city getaways."
+  },
+  notFound: {
+    title: "Page Not Found",
+    description: "We couldn't find the page you were looking for. Perhaps you took a wrong turn in paradise?",
+    returnHome: "Return Home"
+  },
+  home: {
+    welcome: {
+      subtitle: "Welcome to Our Hotel",
+      title: "Your Friendly Amsterdam Base",
+      description1: "Located on a lively street in the city centre, our hotel offers comfortable private and shared rooms with free Wi-Fi, perfect for travelers looking to experience authentic Amsterdam. With excellent tram connections just steps away, you're perfectly positioned to explore the city's famous attractions.",
+      description2: "Our bright rooms feature hardwood floors, large windows, and all the essentials for a comfortable stay. Just a short tram ride from Rembrandt Square and Leidseplein, and within walking distance of Oosterpark, we provide affordable comfort in a fantastic location for your Amsterdam adventure.",
+      learnMore: "Discover Amsterdam"
+    },
+    booking: {
+      subtitle: "Book Your Stay",
+      title: "Your Gateway to the Canals",
+      description: "Check availability and secure your dates for a comfortable stay in Amsterdam. Our easy booking process is the first step toward your Dutch adventure.",
+      benefits: ["Best rate guarantee", "Secure payment", "Instant confirmation",]
+    },
+    findUs: {
+      title: "Find Us",
+      location: "Our Location",
+      description: "Our location is conveniently located in the heart of Amsterdam, just a short tram ride from Rembrandt Square and Leidseplein, and within walking distance of Oosterpark."
+    },
+    featuredApartments: {
+      subtitle: "Our Accommodations",
+      title: "Featured Rooms",
+      description: "Get to know our favorite room options - affordable, comfortable stays that put Amsterdam's best sights right at your doorstep.",
+      viewAll: "View All Rooms"
+    },
+    amenities: {
+      subtitle: "Hotel Amenities",
+      title: "Experience The Best",
+      description: "Enjoy our premium facilities and services designed to make your stay exceptional.",
+      features: {
+        beachfront: {
+          title: "Beachfront Location",
+          description: "Direct access to pristine beaches with crystal clear waters."
+        },
+        pools: {
+          title: "Swimming Pools",
+          description: "Relax by our infinity pools with stunning sea views."
+        },
+        restaurant: {
+          title: "Gourmet Restaurant",
+          description: "Enjoy exquisite local and international cuisine."
+        },
+        wifi: {
+          title: "High-Speed Wi-Fi",
+          description: "Stay connected with complimentary high-speed internet."
+        },
+        bar: {
+          title: "Beach Bar & Café",
+          description: "Refreshing drinks and snacks served right on the beach."
+        },
+        location: {
+          title: "Prime Location",
+          description: "Close to local attractions, shops, and restaurants."
+        }
+      }
+    },
+    cta: {
+      title: "Ready for Your Dream Vacation?",
+      description: "Book your stay today and experience the perfect blend of luxury, comfort, and stunning sea views.",
+      bookNow: "Book Now"
+    }
+  },
+  apartments: {
+    title: "Our Apartments & Rooms",
+    subtitle: "Discover our selection of premium accommodations, ranging from cozy studios to luxurious penthouses.",
+    filters: {
+      guests: "Guests",
+      anyGuests: "Any number of guests",
+      onePlus: "1+ guests",
+      twoPlus: "2+ guests",
+      threePlus: "3+ guests",
+      fourPlus: "4+ guests",
+      location: "Location",
+      allLocations: "All locations",
+      priceRange: "Price Range",
+      showing: "Showing",
+      of: "of",
+      accommodations: "accommodations",
+      resetFilters: "Reset Filters",
+      noMatch: "No apartments match your filters",
+      adjustFilters: "Try adjusting your filter criteria to see more options.",
+      viewDetails: "View Details",
+      features: "features",
+      more: "more"
+    }
+  },
+  gallery: {
+    title: "Photo Gallery",
+    subtitle: "Explore our seaside paradise through captivating imagery.",
+    filters: {
+      all: "All",
+      exterior: "Exterior",
+      rooms: "Rooms",
+      amenities: "Amenities"
+    }
+  },
+  booking: {
+    title: "Book Your Stay",
+    subtitle: "Complete your reservation in a few simple steps.",
+    steps: {
+      chooseRoom: "Choose Room",
+      guestDetails: "Guest Details",
+      confirmation: "Confirmation"
+    },
+    dates: {
+      selectDates: "Select Dates and Guests",
+      checkIn: "Check-in Date",
+      checkOut: "Check-out Date",
+      adults: "Adults",
+      children: "Children",
+      adult: "Adult",
+      child: "Child",
+      selectDate: "Select date"
+    },
+    accommodationSelect: {
+      title: "Select Your Accommodation",
+      guests: "Guests",
+      selected: "Selected",
+      select: "Select",
+      continue: "Continue"
+    },
+    guestInfo: {
+      title: "Guest Information",
+      firstName: "First Name",
+      lastName: "Last Name",
+      email: "Email",
+      phone: "Phone",
+      address: "Address",
+      city: "City",
+      zipCode: "Zip Code",
+      country: "Country",
+      specialRequests: "Special Requests",
+      specialRequestsPlaceholder: "Any special requests or notes for your stay"
+    },
+    payment: {
+      title: "Payment Information",
+      creditCard: "Credit Card",
+      payAtProperty: "Pay at Property",
+      nameOnCard: "Name on Card",
+      cardNumber: "Card Number",
+      cardNumberPlaceholder: "0000 0000 0000 0000",
+      expiryDate: "Expiry Date",
+      expiryDatePlaceholder: "MM/YY",
+      cvc: "CVC",
+      cvcPlaceholder: "123",
+      payAtPropertyInfo: "You will be required to provide a valid credit card upon arrival for security purposes, but payment will be collected during your stay at the property."
+    },
+    summary: {
+      title: "Booking Summary",
+      checkIn: "Check-in",
+      checkOut: "Check-out",
+      guests: "Guests",
+      night: "night",
+      nights: "nights",
+      cleaningFee: "Cleaning fee",
+      serviceFee: "Service fee",
+      total: "Total"
+    },
+    confirmation: {
+      title: "Review Booking Details",
+      accommodationDetails: "Accommodation Details",
+      guestDetails: "Guest Details",
+      name: "Name",
+      email: "Email",
+      phone: "Phone",
+      address: "Address", 
+      city: "City",
+      country: "Country",
+      specialRequests: "Special Requests",
+      paymentMethod: "Payment Method",
+      creditCard: "Credit Card",
+      priceSummary: "Price Summary",
+      termsAgree: "I agree to the",
+      termsLink: "Terms and Conditions",
+      privacyLink: "Privacy Policy",
+      cancellationInfo: "I understand that my booking is subject to the property's cancellation policy.",
+      back: "Back",
+      confirmBooking: "Confirm Booking",
+      success: "Booking Confirmed!",
+      emailSent: "Your reservation has been successfully confirmed. A confirmation email has been sent to",
+      bookingReference: "Booking Reference",
+      returnToHome: "Return to Homepage"
+    }
+  },
+  contact: {
+    title: "Contact Us",
+    subtitle: "We're here to help make your stay unforgettable. Reach out with any questions or special requests.",
+    getInTouch: "Get In Touch",
+    address: "Address",
+    phone: "Phone",
+    email: "Email",
+    receptionHours: "Reception Hours",
+    checkInTime: "Check-in: After 3:00 PM",
+    checkOutTime: "Check-out: Before 10:00 AM",
+    sendMessage: "Send Us a Message",
+    fullName: "Full Name",
+    phoneNumber: "Phone Number",
+    subject: "Subject",
+    message: "Message",
+    howCanWeHelp: "How can we help you?",
+    send: "Send Message",
+    messageSent: "Message Sent!",
+    thankYou: "Thank you for reaching out. We'll respond to your message as soon as possible.",
+    validationError: "Please check your details: a valid e-mail address, a subject and a message of at least 10 characters are required.",
+    faq: "Frequently Asked Questions",
+    faqSubtitle: "Find quick answers to commonly asked questions about our accommodations and services.",
+    questions: {
+      checkInOut: {
+        question: "What are your check-in and check-out times?",
+        answer: "You're welcome to check in anytime after 3:00 PM, and we request that check-out is completed by 10:00 AM to prepare for our next guests."
+      },
+      parking: {
+        question: "Is parking available at the property?",
+        answer: "No, we don't have parking facilities. There are several public parking options within walking distance of the hotel."
+      },
+      pets: {
+        question: "Can I bring my pet with me?",
+        answer: "No, we're unable to accommodate pets or animals of any kind due to our hotel policy. We hope you understand."
+      },
+      breakfast: {
+        question: "Do you serve breakfast",
+        answer: "No, we don't offer breakfast, but this gives you the perfect opportunity to explore Amsterdam's wonderful cafe culture right from your doorstep!"
+      },
+      transfers: {
+        question: "Are there restaurant or kitchen facilities available at the hotel?",
+        answer: "No, we do not have a restaurant or guest kitchen facilities. However, we're located in an area with plenty of affordable dining options, cafes, and supermarkets within walking distance. Our staff would be happy to recommend some great local spots for meals and snacks."
+      },
+      amenities: {
+        question: "Are there rooms with a balcony",
+        answer: "No, we don't have rooms with balconies"
+      }
+    }
+  },
+  apartmentDescriptions: {
+    "1": {
+      name: "moet verandering worden gebracht",
+      description: "Luxurious suite with panoramic sea views, modern amenities, and a private balcony."
+    },
+    "2": {
+      name: "Premium Family Apartment",
+      description: "Spacious apartment ideal for families, with full kitchen and stunning coastal views."
+    },
+    "3": {
+      name: "Executive Beach Studio",
+      description: "Elegant studio with direct beach access, modern design, and premium finishes."
+    },
+  },
+  amenitiesPage: {
+    title: "Our Amenities",
+    subtitle: "Discover the luxury amenities and services that make your stay unforgettable.",
+    description: "At our hotel, we are dedicated to providing a comprehensive and comfortable stay experience. Every detail has been curated to ensure maximum comfort and peace of mind.",
+    categories: {
+      wellness: {
+        title: "Wellness & Relaxation",
+        description: "Treat yourself with our range of wellness services designed to rejuvenate body and mind.",
+        items: [
+          {
+            title: "Luxury Spa",
+            description: "Our spa offers a full range of treatments, from traditional therapies to the most modern beauty treatments."
+          },
+          {
+            title: "Fitness Center",
+            description: "Maintain your fitness routine with our state-of-the-art gym featuring panoramic sea views."
+          },
+          {
+            title: "Infinity Pool",
+            description: "Immerse yourself in our infinity pool while admiring the endless horizon of the sea."
+          },
+          {
+            title: "Beach Yoga",
+            description: "Join our morning yoga sessions on the beach for a revitalizing awakening."
+          }
+        ]
+      },
+      dining: {
+        title: "Dining",
+        description: "Discover the best of local and international cuisine at our restaurants and bars.",
+        items: [
+          {
+            title: "Gourmet Restaurant",
+            description: "Savor fine dishes prepared by our chefs with fresh local ingredients."
+          },
+          {
+            title: "Beach Bar",
+            description: "Enjoy refreshing cocktails and light snacks with your feet in the sand."
+          },
+          {
+            title: "Lounge Bar",
+            description: "Relax with a selection of fine wines and spirits in an elegant atmosphere."
+          },
+          {
+            title: "Room Service",
+            description: "Enjoy gourmet meals in the privacy of your apartment, available 24 hours a day."
+          }
+        ]
+      },
+      services: {
+        title: "Extra Services",
+        description: "Take advantage of our additional services for a hassle-free stay.",
+        items: [
+          {
+            title: "24/7 Concierge",
+            description: "Our concierge team is available at any time to assist you with any request."
+          },
+          {
+            title: "Airport Transfers",
+            description: "Travel comfortably to and from the airport with our private transfer service."
+          },
+          {
+            title: "Car Rental",
+            description: "Explore the area with our fleet of premium vehicles available for rent."
+          },
+          {
+            title: "Guided Excursions",
+            description: "Discover local attractions with our personalized expert-guided tours."
+          }
+        ]
+      },
+      entertainment: {
+        title: "Entertainment",
+        description: "Enjoy a variety of recreational activities designed for all tastes.",
+        items: [
+          {
+            title: "Water Sports",
+            description: "Try a wide range of water sports, from paddleboarding to jet skiing."
+          },
+          {
+            title: "Kids Play Area",
+            description: "Little ones can have fun in our safe and supervised play area."
+          },
+          {
+            title: "Themed Evenings",
+            description: "Join our weekly themed evenings with live music and entertainment."
+          },
+          {
+            title: "Library & Game Room",
+            description: "Relax with a good book or enjoy board games in our common room."
+          }
+        ]
+      }
+    }
+  }
+};
