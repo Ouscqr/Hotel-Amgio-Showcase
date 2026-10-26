@@ -1,4 +1,4 @@
-# Hotel Booking Showcase
+# Hotel Booking Showcase from Hotel Amigo in Amsterdam
 
 A production-grade marketing site for a city hotel: responsive landing page, date-based
 booking deep links, a validated enquiry form, five locales and dark mode.
